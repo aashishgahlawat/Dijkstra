@@ -1,7 +1,7 @@
 # Dijkstra
 Dijkstra in c++ with priority queue
 ##
-Explained at: https://discuss.codechef.com/questions/122636/shortest-path-algorithm?page=1#122638
+Explained at: https://medium.com/@aashishgahlawat/dijkstra-code-explaination-in-c-af0058270052
 #
 downolad input output and exe for source code check the cpp file
 #
