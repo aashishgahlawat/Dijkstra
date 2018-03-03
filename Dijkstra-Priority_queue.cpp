@@ -1,7 +1,7 @@
 
 //dijkastra without priority queue TLE on test 31 link: http://codeforces.com/contest/20/submission/34416661
 
-//Explained at: https://discuss.codechef.com/questions/122636/shortest-path-algorithm?page=1#122638
+//Explained at: https://medium.com/@aashishgahlawat/dijkstra-code-explaination-in-c-af0058270052
 
 
 #include <iostream>
